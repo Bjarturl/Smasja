@@ -1,0 +1,90 @@
+﻿Leiðbeiningar fyrir Smásjá v1.0
+
+1.
+X-ás: Fellilisti sem inniheldur valmöguleika um gögn til að hafa á X-ás.
+Y-ás: Fellilisti sem inniheldur valmöguleika um gögn til að hafa á Y-ás.
+
+2.
+Línurit: Teikna gögn sem línurit
+Punktarit: Teikna gögn sem punktarit
+Aðeins er hægt að velja eina teikniaðferð í einu.
+
+3.
+Teikna á seinni Y-ás: Teikna graf frá hægri til vinstri. Birtir viðeigandi Y-ás vinstra megin.
+
+4.
+Leyfa mörg gröf á ker: Venjulega er bara hægt að sjá 1 graf fyrir hvert ker í einu.
+Þessi möguleiki leyfir notanda að sjá marga þætti samhliða hvor öðrum.
+
+5.
+Fara í greiningarham: 
+-Aðeins er hægt að velja "Uppfæra (enter)", "Ár" og "Ker (+ og -)".
+-Á vinstri glugga teiknast sjálfkrafa REDACTED og REDACTED fyrir skálann sem valinn var.
+-Á vinstri glugga teiknast einnig REDACTED fyrir valið ker.
+-Á hægri glugga teiknast REDACTED, REDACTED og REDACTED fyrir valið ker.
+-Þegar ýtt er á "Uppfæra" þá uppfærast bara gögnin fyrir valið ker, skálagögnin á vinstra grafi haldast.
+
+6.
+Ker: Tryggir að gögn sem birt eru séu aðeins fyrir tiltekið ker. Hægt að slá inn gildi.
+Hægt að fletta milli kera með hægri og vinstri örvatökkum eða + og -.
+Kerskáli: Tryggir að gögn sem birt eru séu aðeins fyrir tiltekinn kerskála. Hægt að slá inn gildi.
+Ekki er hægt að velja samtímis Ker og Kerskála.
+Villumeðhöndlun er til staðar.
+
+7.
+Litur: Fellilisti yfir valmöguleika um liti á grafi.
+Þegar graf er teiknað færist litaval sjálfkrafa yfir í næsta lit.
+
+8.
+Ár: Tryggir að gögn sem birt eru séu aðeins fyrir tiltekið ár. Ef ekkert er birt öll gögn frá og með 1/1/2014.
+Hægt að velja úr fellilista.
+
+9.
+Teikna á: Valmöguleikar um staðsetningu á grafi
+Vinstri gluggi: Graf verður staðsett á glugganum vinstra megin
+Hægri gluggi: Graf verður staðsett á glugganum hægra megin
+Einn gluggi: Aðeins einn gluggi mun birtast og grafið verður staðsett þar.
+Aðeins er hægt að velja einn teiknistaðsetningarmöguleika í einu.
+
+10.
+Vista sjálfkrafa: Í hvert skipti sem mynd er uppfærð er vistuð mynd af henni undir 'gröf/'.
+Vista: Vista núverandi mynd á valdri eða sjálfvaldri staðsetningu.
+Sjálfvalin staðsetning er heimamappa notanda. Skilaboð um staðsetningu möppu birtist á skjánum.
+Velja möppu: Opnar möppustrúktúr notanda svo hann geti valið um staðsetningu á 'gröf/' möppunni.
+
+11.
+[X|Y] tafla: Birtir nýjustu gögn af grafi raðað eftir gildi á Y-ás í hækkandi röð. Hægt að ýta á dálkanöfn til að breyta röð.
+
+12.
+Hreinsa graf f. hverja uppfærslu: Þegar smellt er á "Uppfæra" þá er allt þurrkað út fyrst og svo uppfært.
+
+13.
+Uppfæra: Uppfærir gögn eftir núverandi valmöguleikum. Einnig er hægt að framkvæma þessa virkni með því að ýta á 'Enter'.
+
+14.
+Hreinsa graf: Hreinsa glugga eftir völdum "Teikna á" valmöguleika. 
+Einnig er hægt að framkvæma þessa virkni með því að ýta á 'Delete'.
+
+15.
+Hreinsa ás: Hreinsa aðeins núverandi ás, hinir verða óbreyttir.
+Einnig er hægt að framkvæma þessa virkni með því að ýta á 'Ctrl+A'.
+
+16.
+Sýna framleiðslutölur f. valinn skála: Teiknar graf með framleiðslutölum valins skála og árs.
+
+17.
+Sýna áltökugögn f. valinn skála: Teiknar punktarit með kernúmerum f. valinn skála á X-ás og dagsáltöku á Y-ás.
+
+
+Annað:
+1.
+Alltaf þegar gögn fyrir stök ker eru teiknuð þá birtist einnig dagsetning síðustu gangsetningu þess kers.
+
+2.
+Ef gögn eru orðin úrelt er hægt að ýta á Ctrl+U til að uppfæra gögn. Notandi þarf að bíða eftir uppfærslu (tekur ca mínútu).
+Ekki loka forriti meðan uppfærsla er í gangi. 
+
+3.
+Hægt er að ýta á Ctrl+Z til að fjarlægja síðustu teikningu fyrir valinn glugga og ás.
+Virkar ekki ef greiningarhamur er virkur.
+
