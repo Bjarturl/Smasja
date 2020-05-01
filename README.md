@@ -1,7 +1,7 @@
 # S.M.Á.S.J.Á (Sjá Myndræna Ástandssögu Skála og Jaðarkera í Álframleiðslu)
 A GUI analysis tool made with PyQt5 for the ISAL aluminum plant in Straumsvík.\
 This was a summer job and at the end of summer the tool was introduced to staff along with \
-instructions on how to set it up on their own machines.\\
+instructions on how to set it up on their own machines.\
 The project was initially meant to be reducing a 250mb Excel model that took an hour to update manually with new data.\
 I figured the best thing to do was make a GUI that did all the background database work for you.\
 This code version is stripped of all sensitive data such as table/column names, details about the model purpose etc.\
