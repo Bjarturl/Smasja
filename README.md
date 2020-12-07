@@ -24,8 +24,8 @@ The tool functionalities include:
 
 ## Photos
 
-![Main menu](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t1.PNG] "Main menu")
+![Main menu](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t1.PNG "Main menu")
 
-![Scatter plot](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t2.PNG] "Scatter plot")
+![Scatter plot](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t2.PNG "Scatter plot")
 
-![Analysis use case](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t3.PNG] "Analysis use case")
+![Analysis use case](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t3.PNG "Analysis use case")
