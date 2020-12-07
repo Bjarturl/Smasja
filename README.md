@@ -23,6 +23,7 @@ The tool functionalities include:
 * And more!
 
 ## Photos
+Visual representation of the program. Data labels have been redacted as was requested by ISAL administration.
 
 ### Main menu
 ![Main menu](https://github.com/Bjarturl/Smasja/blob/master/Myndir/vi%C3%B0m%C3%B3t1.PNG "Main menu")
